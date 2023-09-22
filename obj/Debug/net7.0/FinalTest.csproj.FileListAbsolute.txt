@@ -1,0 +1,15 @@
+D:\DataScience\FinalTest\bin\Debug\net7.0\FinalTest.exe
+D:\DataScience\FinalTest\bin\Debug\net7.0\FinalTest.deps.json
+D:\DataScience\FinalTest\bin\Debug\net7.0\FinalTest.runtimeconfig.json
+D:\DataScience\FinalTest\bin\Debug\net7.0\FinalTest.dll
+D:\DataScience\FinalTest\bin\Debug\net7.0\FinalTest.pdb
+D:\DataScience\FinalTest\obj\Debug\net7.0\FinalTest.csproj.AssemblyReference.cache
+D:\DataScience\FinalTest\obj\Debug\net7.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataScience\FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfoInputs.cache
+D:\DataScience\FinalTest\obj\Debug\net7.0\FinalTest.AssemblyInfo.cs
+D:\DataScience\FinalTest\obj\Debug\net7.0\FinalTest.csproj.CoreCompileInputs.cache
+D:\DataScience\FinalTest\obj\Debug\net7.0\FinalTest.dll
+D:\DataScience\FinalTest\obj\Debug\net7.0\refint\FinalTest.dll
+D:\DataScience\FinalTest\obj\Debug\net7.0\FinalTest.pdb
+D:\DataScience\FinalTest\obj\Debug\net7.0\FinalTest.genruntimeconfig.cache
+D:\DataScience\FinalTest\obj\Debug\net7.0\ref\FinalTest.dll
